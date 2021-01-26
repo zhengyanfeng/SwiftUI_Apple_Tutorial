@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		181FF0F925C00BD800E6D780 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181FF0F825C00BD800E6D780 /* ScrumsView.swift */; };
 		18B0BF2E259DB32600E863ED /* ScrumdingerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B0BF2D259DB32600E863ED /* ScrumdingerApp.swift */; };
 		18B0BF30259DB32600E863ED /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B0BF2F259DB32600E863ED /* MeetingView.swift */; };
 		18B0BF32259DB32800E863ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18B0BF31259DB32800E863ED /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		181FF0F825C00BD800E6D780 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		18B0BF2A259DB32600E863ED /* Scrumdinger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scrumdinger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18B0BF2D259DB32600E863ED /* ScrumdingerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerApp.swift; sourceTree = "<group>"; };
 		18B0BF2F259DB32600E863ED /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				18B0BF2D259DB32600E863ED /* ScrumdingerApp.swift */,
 				18B0BF2F259DB32600E863ED /* MeetingView.swift */,
 				18B0BF67259DDB6E00E863ED /* CardView.swift */,
+				181FF0F825C00BD800E6D780 /* ScrumsView.swift */,
 				18B0BF31259DB32800E863ED /* Assets.xcassets */,
 				18B0BF36259DB32800E863ED /* Info.plist */,
 				18B0BF33259DB32800E863ED /* Preview Content */,
@@ -277,6 +280,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18B0BF30259DB32600E863ED /* MeetingView.swift in Sources */,
+				181FF0F925C00BD800E6D780 /* ScrumsView.swift in Sources */,
 				18B0BF63259DD9B700E863ED /* DailyScrum.swift in Sources */,
 				18B0BF68259DDB6E00E863ED /* CardView.swift in Sources */,
 				18B0BF6F259DE0B900E863ED /* Color+Codable.swift in Sources */,
